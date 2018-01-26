@@ -118,6 +118,13 @@ void loop()
   Serial.print(Anas_4);
 {
   
+  // New Game States:
+  // 1. initialize Game
+  // 2. setupTargets
+  // 3. Read Input
+  // 4. GameOver
+  // 5. GameRestart
+  
   // In what mode are we?
   switch(Game_Status)
   {
