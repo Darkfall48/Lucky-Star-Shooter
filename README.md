@@ -63,10 +63,8 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ### You can follow me on
 
-```
 * [My Website](http://darkfall48.wix.com/darkfall48/)
 * [My Youtube Channel](https://youtube.com/darkfall48/)
-```
 
 ## Acknowledgments
 
