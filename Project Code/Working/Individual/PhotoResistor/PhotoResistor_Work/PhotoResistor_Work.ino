@@ -1,6 +1,6 @@
 // Sensor pin definitions
 
-const int Sensor_1 = A0;
+const int Sensor_1 = A2;
 int Anas_1;
 
 void setup() 

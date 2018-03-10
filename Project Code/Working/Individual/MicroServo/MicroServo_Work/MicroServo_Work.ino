@@ -4,7 +4,7 @@
 
 Servo Servo_1; 
 
-const int servoAwake = 90; // Awake
+const int servoAwake = 80; // Awake
 const int servoSleep = 0; // Sleep
 
 // Game Variables
@@ -17,7 +17,7 @@ void setup()
   Serial.begin(9600);
   randomSeed(analogRead(0));
 
-  Servo_1.attach(9);
+  Servo_1.attach(3);
 
   
 }
