@@ -1,7 +1,44 @@
 # Lucky Star Shooter
 
-An arduino project for my school
-(A better introduction is coming)
+The following is an Electronic Game Project I did for my school.
+I made this project in two weeks, I worked on it in solo (my grandfather helped me to prepare physically the project).
+
+### Name
+
+The project is called "Lucky Star Shooter".
+
+### Goal of the project
+
+The goal of the project is to create a game using the Arduino as the main component of the project.
+
+### In this project I used:
+```
+- Arduino Uno
+- Servo motors (Micro-Servo) x4
+- Light Sensor (Photo-Resistor) x4
+- Laser Diode
+- Button x2
+- 9v Battery x2
+- LCD display (Liquid Crystal)
+- Potentiometer
+- Capacitors/ Resistors/ Cables
+```
+
+### Goal of the game
+
+The game is presented as a shooter.
+
+When the game starts, 4 targets will rise one after the other during a given time.
+
+You will have to use the laser gun provided especially for the occasion to hit the targets within the time limit. You will have to aim at the center of the targets since there is a sensor which is located there.
+
+The player's score is displayed in real-time on the LCD screen.
+
+I was originally planning to add sound for the game, but unfortunately, I couldn't get it to work in the time I had left to prepare this project.
+
+### Special Awards
+
+My project was selected by my school to participate in an international competition at the Tel-Aviv University.
 
 ## Getting Started
 
