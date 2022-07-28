@@ -13,15 +13,15 @@ The goal of the project is to create a game using the Arduino as the main compon
 
 ### In this project I used:
 ```
-- Arduino Uno
+- Arduino Uno x1
 - Servo motors (Micro-Servo) x4
 - Light Sensor (Photo-Resistor) x4
-- Laser Diode
+- Laser Diode x1
 - Button x2
 - 9v Battery x2
-- LCD display (Liquid Crystal)
-- Potentiometer
-- Capacitors/ Resistors/ Cables
+- LCD display (Liquid Crystal) x1
+- Potentiometer x1
+- Capacitors/ Resistors/ Cables x1
 ```
 
 ### Goal of the game
@@ -40,42 +40,6 @@ I was originally planning to add sound for the game, but unfortunately, I couldn
 
 My project was selected by my school to participate in an international competition at the Tel-Aviv University.
 
-## Getting Started
-
-// These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software, the components and how to install them
-
-```
-Arduino software
-
-* An Arduino
-
-* (next things will come after)
-```
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## Deployment
 
 + Arduino Uno
@@ -84,19 +48,9 @@ Give an example
 
 * [ArduinoSoftware](https://www.arduino.cc/en/Main/Software) - The coding program I used
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for the details.
-
-## Versioning
-
-I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 * **Sidney Sebban** - *Initial work* - [Darkfall48](https://github.com/Darkfall48)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ### You can follow me on
 
@@ -105,7 +59,5 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Inspiration: Lucky Luke
 
