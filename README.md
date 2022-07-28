@@ -46,7 +46,8 @@ My project was selected by my school to participate in an international competit
 
 ## Built With
 
-* [ArduinoSoftware](https://www.arduino.cc/en/Main/Software) - The coding program I used
+* [Arduino Software](https://www.arduino.cc/en/Main/Software) - The coding program I used
+* [Fritzing Software](https://fritzing.org/) - The schematic design software I used
 
 ## Authors
 
