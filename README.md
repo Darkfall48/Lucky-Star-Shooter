@@ -3,9 +3,11 @@
 The following is an Electronic Game Project I did for my school.
 I made this project in two weeks, I worked on it in solo (my grandfather helped me to prepare physically the project).
 
+![alt text](https://lh3.googleusercontent.com/pw/AM-JKLW0b_vyckFcauG9ON37M0rmIh1aLeO-MaazDg8t2idlpXRpFyka7RZmp5s428cVRruJHI53FMH5IG7Djn7jdTCRY7xFOZF5AOSQdLiNXK4po-gnPz6piPa-czFuzDYPJHoyus14sqrqvajUiDJzNHYhnw)
+
 ### Name
 
-The project is called "Lucky Star Shooter".
+The project is called "**Lucky Star Shooter**".
 
 ### Goal of the project
 
