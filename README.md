@@ -42,6 +42,41 @@ I was originally planning to add sound for the game, but unfortunately, I couldn
 
 My project was selected by my school to participate in an international competition at the Tel-Aviv University.
 
+## The Global Idea
+
+<img src="https://user-images.githubusercontent.com/35638060/181654793-c03af573-6e5f-4a4b-8e00-0648daa31b18.png" width="400">
+
+## The Laser Gun
+
+### Global Schematic
+
+<img src="https://user-images.githubusercontent.com/35638060/181654843-eba6293b-2000-4d00-aff7-d7dd85b5d5d5.png" width="400">
+
+### Electronic Shematic
+
+<img src="https://user-images.githubusercontent.com/35638060/181654898-3f8396d3-6303-4775-a881-a10abeabbc35.png" width="400">
+
+## The Targets
+
+### Global Schematic
+
+<img src="https://user-images.githubusercontent.com/35638060/181654977-4cae27e4-fc13-4724-8663-947f6321c430.png" width="400">
+
+### Connectics
+
+<img src="https://user-images.githubusercontent.com/35638060/181655158-8b33d0dd-5f29-438b-b729-a4f7db23be80.png" width="350">
+
+## The Code
+
+### Global Shematic (In Hebrew)
+
+<img src="https://user-images.githubusercontent.com/35638060/181655059-de8f5fd7-eeb7-41ff-8774-3236076a25b4.png" width="350">
+
+### The Code
+```C#
+
+```
+
 ## Deployment
 
 + Arduino Uno
@@ -63,4 +98,8 @@ My project was selected by my school to participate in an international competit
 ## Acknowledgments
 
 * Inspiration: Lucky Luke
+
+## More Pictures and Videos
+
+* [💡Projet Électronique💡 - 🏹Lucky Star Shooter🎯](https://photos.app.goo.gl/d5rO9x5mIkHKeJgW2)
 
