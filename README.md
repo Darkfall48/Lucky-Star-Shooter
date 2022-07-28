@@ -1,4 +1,4 @@
-# Lucky Shoot
+# Lucky Star Shooter
 
 An arduino project for my school
 (A better introduction is coming)
