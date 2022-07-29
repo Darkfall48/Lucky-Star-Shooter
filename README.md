@@ -252,3 +252,6 @@ void loop() {
 
 * [💡Projet Électronique💡 - 🏹Lucky Star Shooter🎯](https://photos.app.goo.gl/C8r7bQkPRmpScWuZ6)
 
+## Project Documentation
+
+* [Lucky Star Shooter - Documentation](https://github.com/Darkfall48/Lucky-Star-Shooter/files/9215014/Lucky.Star.Shooter.-.Project.Electronic.-.Sidney.Sebban.For.GitHub.pdf)
