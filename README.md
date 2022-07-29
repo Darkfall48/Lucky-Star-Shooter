@@ -224,27 +224,6 @@ void loop() {
       delay(20000);
       break;
   }
-  
-  //Initialize the Servo
-  //targetServo_0.write(TARGET_DOWN);
-  //delay(500);
-  
-  //Reading the Sensors values
-  //targetLightValue = analogRead(targetLightSensor_0);
-  
-  //Writing the Sensors values
-  //Serial.print("Sensor 1 = ");
-  //Serial.println(targetLightValue);
-  //delay(200);  
-
-  //if (targetLightValue > 90) {
-  //    targetServo_0.write(TARGET_UP);
-  //    delay(500);
-  //}
-    
-  //else {
-  //  Serial.print("waiting for laser");
-  //}
 }
 
 ```
