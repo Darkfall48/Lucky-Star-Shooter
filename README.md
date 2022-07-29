@@ -224,8 +224,6 @@ void loop() {
       delay(20000);
       break;
   }
-}
-
 ```
 
 ## Deployment
