@@ -254,4 +254,4 @@ void loop() {
 
 ## Project Documentation
 
-* [Lucky Star Shooter - Documentation](https://github.com/Darkfall48/Lucky-Star-Shooter/files/9215014/Lucky.Star.Shooter.-.Project.Electronic.-.Sidney.Sebban.For.GitHub.pdf)
+* [Lucky Star Shooter - Documentation (In Hebrew)](https://github.com/Darkfall48/Lucky-Star-Shooter/files/9215014/Lucky.Star.Shooter.-.Project.Electronic.-.Sidney.Sebban.For.GitHub.pdf)
