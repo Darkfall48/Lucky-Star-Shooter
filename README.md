@@ -4,11 +4,11 @@ This project is an electronic game that I created for my school in just two week
 
 ![alt text](https://lh3.googleusercontent.com/pw/AM-JKLW0b_vyckFcauG9ON37M0rmIh1aLeO-MaazDg8t2idlpXRpFyka7RZmp5s428cVRruJHI53FMH5IG7Djn7jdTCRY7xFOZF5AOSQdLiNXK4po-gnPz6piPa-czFuzDYPJHoyus14sqrqvajUiDJzNHYhnw)
 
-### Overview
+## Overview
 
 The project is called **Lucky Star Shooter**, and it was built using Arduino as its main component. The game features four targets that rise one after the other during a set time period. The player must aim and hit the center of the targets using the laser gun provided to them within the time limit. The score is displayed in real-time on an LCD screen.
 
-### Components
+## Components
 The project used the following components:
 
 - Arduino Uno x1
@@ -23,7 +23,7 @@ The project used the following components:
 
 Although sound was intended to be included, I was unable to complete this feature due to time constraints.
 
-### Awards
+## Awards
 My project was selected by my school to participate in an international competition at Tel-Aviv University.
 
 ## The Global Idea
