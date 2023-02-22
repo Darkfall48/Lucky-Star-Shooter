@@ -1,20 +1,16 @@
 # Lucky Star Shooter
 
-The following is an Electronic Game Project I did for my school.
-I made this project in two weeks, I worked on it in solo (my grandfather helped me to prepare physically the project).
+This project is an electronic game that I created for my school in just two weeks. While I worked on the project solo, my grandfather provided some physical assistance.
 
 ![alt text](https://lh3.googleusercontent.com/pw/AM-JKLW0b_vyckFcauG9ON37M0rmIh1aLeO-MaazDg8t2idlpXRpFyka7RZmp5s428cVRruJHI53FMH5IG7Djn7jdTCRY7xFOZF5AOSQdLiNXK4po-gnPz6piPa-czFuzDYPJHoyus14sqrqvajUiDJzNHYhnw)
 
-### Name
+### Overview
 
-The project is called "**Lucky Star Shooter**".
+The project is called **Lucky Star Shooter**, and it was built using Arduino as its main component. The game features four targets that rise one after the other during a set time period. The player must aim and hit the center of the targets using the laser gun provided to them within the time limit. The score is displayed in real-time on an LCD screen.
 
-### Goal of the project
+### Components
+The project used the following components:
 
-The goal of the project is to create a game using the Arduino as the main component of the project.
-
-### In this project I used:
-```
 - Arduino Uno x1
 - Servo motors (Micro-Servo) x4
 - Light Sensor (Photo-Resistor) x4
@@ -23,24 +19,12 @@ The goal of the project is to create a game using the Arduino as the main compon
 - 9v Battery x2
 - LCD display (Liquid Crystal) x1
 - Potentiometer x1
-- Capacitors/ Resistors/ Cables x1
-```
+- Capacitors/Resistors/Cables x1
 
-### Goal of the game
+Although sound was intended to be included, I was unable to complete this feature due to time constraints.
 
-The game is presented as a shooter.
-
-When the game starts, 4 targets will rise one after the other during a given time.
-
-You will have to use the laser gun provided especially for the occasion to hit the targets within the time limit. You will have to aim at the center of the targets since there is a sensor which is located there.
-
-The player's score is displayed in real-time on the LCD screen.
-
-I was originally planning to add sound for the game, but unfortunately, I couldn't get it to work in the time I had left to prepare this project.
-
-### Special Awards
-
-My project was selected by my school to participate in an international competition at the Tel-Aviv University.
+### Awards
+My project was selected by my school to participate in an international competition at Tel-Aviv University.
 
 ## The Global Idea
 
